@@ -43,3 +43,13 @@
 - constraints can cause errors
 - idempotent after first execution
 - isolation levels can impact
+
+## DAO Basics
+- provide abstraction between jdbc and the rest of the code
+- abstraction or true object
+## DTO
+- data transfer object
+- provides single domain data
+## DAO
+- supports multiple tables
+- ## DAO Factory
