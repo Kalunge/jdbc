@@ -12,3 +12,34 @@
 ## Transactions
 - block of code that executes togeher
 - auto-commit - 
+
+## CRUD
+- create, read, update, delete
+- part of the data manipulation language
+# Thoughts
+- learn SQL
+- learn data theory
+- learn relational algebra
+- understanding indexes
+
+## Creating data
+- INSERT statement
+- constraints must be honored
+- isolation levels can impact results
+- not idemnpotent
+
+## Read data
+- SELECT statement
+- constraint not important unless doing joins
+- idempotent operation
+
+## Update data
+ - UPDATE statement
+ - isolation levels have impact
+ - should be idempotent
+
+## Delete data
+- DELETE
+- constraints can cause errors
+- idempotent after first execution
+- isolation levels can impact
